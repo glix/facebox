@@ -85,3 +85,7 @@ You can give the facebox container an extra class (to fine-tune the display of t
 
     <a href="remote.html" rel="facebox[.bolder]">text</a>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/facebox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
